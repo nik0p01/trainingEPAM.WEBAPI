@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfLineOfReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LineOfReport>
+    <Lecture>Jamping</Lecture>
+    <StudentName>Ivan Ivanov</StudentName>
+    <AttendingLecture>false</AttendingLecture>
+  </LineOfReport>
+  <LineOfReport>
+    <Lecture>Riding</Lecture>
+    <StudentName>Ivan Ivanov</StudentName>
+    <AttendingLecture>false</AttendingLecture>
+  </LineOfReport>
+  <LineOfReport>
+    <Lecture>Joging</Lecture>
+    <StudentName>Ivan Ivanov</StudentName>
+    <AttendingLecture>false</AttendingLecture>
+  </LineOfReport>
+  <LineOfReport>
+    <Lecture>Climbing</Lecture>
+    <StudentName>Ivan Ivanov</StudentName>
+    <AttendingLecture>false</AttendingLecture>
+  </LineOfReport>
+</ArrayOfLineOfReport>

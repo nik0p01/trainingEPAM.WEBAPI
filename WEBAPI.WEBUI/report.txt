@@ -1,0 +1,4 @@
+# |Lecture|Student|Attending
+1|Jamping|Ivan Ivanov|False
+2|Jamping|Nikolai Ivanov|True
+3|Jamping|Petr Ivanov|False
